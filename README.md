@@ -4,7 +4,7 @@ Basic VHDL stuff for fun and to stay sharp
 ## Tools
 Using GHDL and GTKWave within WSL
 
-## Vague GHDL workflow so I dont forget
+## Vague workflow so I dont forget
 ### Analysis 
 `ghdl -a design_file.vhd 
 ghdl -a testbench.vhd`
