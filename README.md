@@ -6,8 +6,8 @@ Using GHDL and GTKWave within WSL
 
 ## Vague workflow so I dont forget
 ### Analysis 
-`ghdl -a design_file.vhd 
-ghdl -a testbench.vhd`
+`ghdl -a design_file.vhd` 
+`ghdl -a testbench.vhd`
 ### Elaboration
 `ghdl -e testbench`
 ### Run
